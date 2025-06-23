@@ -1,4 +1,4 @@
 # demo
 This is my Github tutorial.
 <br>
-Author - Nithesh
+Author - Nithesh Dsouza
